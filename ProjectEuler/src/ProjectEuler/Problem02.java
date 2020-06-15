@@ -1,5 +1,5 @@
 package ProjectEuler; 
-public class Problem2 {
+public class Problem02 {
 
 	public static void main(String[] args) {
 		int a = 0;

@@ -1,6 +1,6 @@
 package ProjectEuler; 
 
-public class Problem9 {
+public class Problem09 {
 	
 	// could be more efficient - but too lazy to find the solution
 

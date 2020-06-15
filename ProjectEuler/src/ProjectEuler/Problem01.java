@@ -1,5 +1,6 @@
-package ProjectEuler; 
-public class Problem1 {
+package ProjectEuler;
+
+public class Problem01 {
 
 	// added a comment here
 	public static void main(String[] args) {
